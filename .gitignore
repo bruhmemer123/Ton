@@ -1,0 +1,4 @@
+ton
+*.o
+*.out
+core
